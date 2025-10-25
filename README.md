@@ -48,9 +48,9 @@ Perfect for:
 **Language**: Python 3.7+
 
 **Key Libraries**:
-- `yfinance` / `alpha_vantage` - Stock data retrieval
-- `matplotlib` / `plotly` - Chart generation
-- `reportlab` / `fpdf` - PDF creation
+- `yfinance` - Stock data retrieval
+- `matplotlib` - Chart generation
+- `reportlab` - PDF creation
 - `pandas` - Data manipulation
 - `numpy` - Numerical computations
 
