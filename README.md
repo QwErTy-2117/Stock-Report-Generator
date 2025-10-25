@@ -57,7 +57,6 @@ Perfect for:
 **Requirements**:
 - Python 3.7 or higher
 - Internet connection for data fetching
-- API key (for certain data providers)
 
 ## 📦 Installation
 
