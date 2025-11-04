@@ -1,0 +1,23 @@
+# Requirements for report_generator.py
+# Recommended pip usage: pip install -r requirements.txt
+
+# Core data & analysis
+pandas>=1.5.3
+numpy>=1.24.4
+
+# Plotting
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Data fetching
+yfinance>=0.2.28
+requests>=2.31.0
+
+# PDF generation
+reportlab>=4.0
+
+# Image handling (used by matplotlib/reportlab)
+Pillow>=9.5.0
+
+# XML parsing sometimes required by yfinance
+lxml>=4.9.3
