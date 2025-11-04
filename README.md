@@ -1,10 +1,8 @@
 # 📊 PDF Stock Report Generator
 
-BUY IT HERE: https://www.sellanycode.com/item.php?id=24634
-
 ## 🚀 Overview
 
-The **PDF Stock Report Generator** is a powerful Python tool that automates the creation of professional stock analysis reports. It fetches real-time stock data, generates comprehensive analytical charts, and exports everything into a sleek, professional PDF report.
+The **PDF Stock Report Generator** is a simple Python tool that automates the creation of professional stock analysis reports. It fetches real-time stock data, generates comprehensive analytical charts, and exports everything into a sleek, professional PDF report.
 
 Perfect for:
 - 📈 Day traders and swing traders
@@ -73,31 +71,9 @@ Perfect for:
 - Build custom trading bots with reporting
 - Automate investment research workflows
 
-## 🤝 Support & Documentation
-
-### Getting Help
-- 📚 Check the [Wiki](https://github.com/QwErTy-2117/Stock-Report-Generator/wiki) for detailed documentation
-- 🐛 Report bugs via [Issues](https://github.com/QwErTy-2117/Stock-Report-Generator/issues)
-- 💬 Discuss features and improvements
-
-### Contributing
-Contributions are welcome! Please read the contributing guidelines before submitting pull requests.
-
-## 📝 License
-
-This is a commercial software product. For licensing inquiries and purchase:
-
-**🛒 Available at**: [SellAnyCode - PDF Stock Report Generator](https://www.sellanycode.com/item.php?id=24634)
-
 ## 🌟 Why Choose This Tool?
 
 ✅ **No Manual Work** - Fully automated data collection and report generation
 ✅ **Professional Quality** - Publication-ready charts and reports
 ✅ **Highly Customizable** - Adapt to your specific needs
 ✅ **Fast & Efficient** - Process multiple stocks in seconds
-✅ **Easy to Use** - Simple API with extensive documentation
-✅ **Regular Updates** - Maintained and improved continuously
-
-## BUY IT HERE
-
-- **Purchase**: [SellAnyCode Product Page](https://www.sellanycode.com/item.php?id=24634)
