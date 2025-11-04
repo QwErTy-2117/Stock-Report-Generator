@@ -77,3 +77,7 @@ Perfect for:
 ✅ **Professional Quality** - Publication-ready charts and reports
 ✅ **Highly Customizable** - Adapt to your specific needs
 ✅ **Fast & Efficient** - Process multiple stocks in seconds
+
+
+### ❤️ Donate
+BTC address for donations: bc1qgws0d303egpcfwnj536ppq9y9hksxq0e6vzmnv
