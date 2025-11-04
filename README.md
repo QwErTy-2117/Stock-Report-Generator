@@ -79,5 +79,7 @@ Perfect for:
 ✅ **Fast & Efficient** - Process multiple stocks in seconds
 
 
-### ❤️ Donate
+
+
+## ❤️ Donate
 BTC address for donations: bc1qgws0d303egpcfwnj536ppq9y9hksxq0e6vzmnv
