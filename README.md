@@ -1,4 +1,4 @@
-# PDF Stock Report Generator (Entirely vibecoded)
+# PDF Stock Report Generator
 
 
 
