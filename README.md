@@ -81,10 +81,4 @@ Perfect for:
 ✅ **No Manual Work** - Fully automated data collection and report generation
 ✅ **Professional Quality** - Publication-ready charts and reports
 ✅ **Highly Customizable** - Adapt to your specific needs
-✅ **Fast & Efficient** - Process multiple stocks in seconds
-
-
-
-
-## ❤️ Donate
-BTC address for donations: bc1qgws0d303egpcfwnj536ppq9y9hksxq0e6vzmnv
+✅ **Fast & Efficient**
